@@ -1,0 +1,7 @@
+
+
+# My program is using python 2.7 with no special library
+
+# Note: my words_tweeted method use the built-in dictionnary to save each word and its frequence, the dictionnary size limitation should be OS dependent.
+
+# Note: my median_uniques method houldn't have any scale issue since it is only keeping in memory the toatl number of unique word and the number of tweets.    
